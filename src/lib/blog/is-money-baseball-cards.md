@@ -9,17 +9,27 @@ Through the lense of trading cards, we can get clarity in the lack of utility in
 "
 ---
 
+<!--
+# Things to fix
+
+- [ ] Move Pokémon analogy to intro; make it core thesis.
+- [ ] Condense intro (IRA story) to 1 paragraph.
+- [ ] Center structure around convo with friend.
+- [ ] Define “utility,” “speculation,” and “ownership” briefly.
+- [ ] Cut or tighten crypto + end-times tangent.
+- [ ] Smooth transitions between sections.
+- [ ] Remove redundant phrases; tighten grammar.
+- [ ] Tone-check jokes (e.g., Barry Manilow).
+- [ ] Add 1-sentence thesis summary early and repeat at end.
+-->
+
 The other day, it struck me that I hadn't used some money that I had allocated to my Roth IRA.
-There is an intermediate account that funds go to before they turn into shares.
-Since I forgot to move it, here my money sat in money purgatory.
 I logged into my _Brokerage Inc._ account and bought some shares of _Index Fund_.
 I'm not particularly financially savvy; I know enough to feel like I get to retire in America.
 That said, there are some gains in my investments thus far.
-These gains were displayed in the UI of my _Brokerage Inc._ account.
-
 Seeing these gains, I felt kind of _slimey_.
 I felt icky for having been essentially paid to have money.
-I felt icky because I received compensation despite having created no value in the world.
+I received compensation despite having created no value in the world.
 I don't think investment in and of itself is evil.
 Let's take 2 scenarios:
 

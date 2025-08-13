@@ -36,22 +36,13 @@ Notes:
 -->
 
 <!-- intro -->
-I love snacking on frozen grapes.
-They're a bit of a comfort food for me.
-My first step mother loved frozen grapes.
-When she was pregnant with my little, half brother, all she wanted was too-sweet-Kool-Aid, frozen grapes, and the (soon to decline) Subway sub sandwiches.
-
-<!--
-creates tension for someone being under served
-even in a situation where someone is asking for alot
--->
+I love frozen white grapes; they're a bit of a comfort food for me.
+When my first step mother was pregnant with my little, half brother, all she wanted was too-sweet-Kool-Aid, frozen grapes, and Subway.
 One summer day, she took my then stepbrother and me to said sandwich shop.
-She ordered her sandwich last.
-Once it was assembled, she asked for "oil and vinegar... extra oil" as her dressing for her sandwich.
+She ordered her sandwich last; she asked for "oil and vinegar... extra oil" as her sandwich dressing.
 After the sandwich maker had fully dressed her sub, she said, "Could you put more oil on the sandwich?"
 He obliged.
-She asked for more.
-He obliged.
+She asked for more--he obliged.
 She asked him to go until she stopped him.
 
 <!-- intro of the main conflict -->
