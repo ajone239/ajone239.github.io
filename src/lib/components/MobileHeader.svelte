@@ -2,22 +2,21 @@
     import { SiteTitle } from "$lib/info";
     import type { MenuLink } from "$lib/types/MenuLink";
     import { slide } from "svelte/transition";
+    import Hamburger from "./Hamburger.svelte";
 
     let { menuLinks }: { menuLinks: MenuLink[] } = $props();
 
     let open = $state(false);
-
-    let buttonText = $derived(open ? "close" : "open");
 </script>
 
 <div class="header-container">
     <div class="header-content">
         <h3>
-            <a href="/">{SiteTitle}</a>
+            <a href="/" onclick={() => (open = false)}>{SiteTitle}</a>
         </h3>
 
-        <button onclick={() => (open = !open)}>
-            {buttonText}
+        <button class="nav-toggle" onclick={() => (open = !open)}>
+            <Hamburger {open} />
         </button>
     </div>
 
@@ -63,6 +62,20 @@
         align-items: center;
         justify-content: space-between;
     }
+
+    .nav-toggle {
+        all: unset;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+
+        &:focus {
+            outline: 2px solid #007bff;
+            outline-offset: 2px;
+        }
+    }
+
     h3 {
         margin: 10px;
     }
