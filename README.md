@@ -22,14 +22,14 @@ What it needs:
 - [x] port to main blog
 - [x] rss link in footer
 - [x] cool auto navigation hamburger
+- [x] Better homepage
+    + [x] just latest post with link to blog
+        * [x] need to have a get one post api
+    + [x] Expand sections
+    + [x] More about me
 - [ ] dark mode button
-- [ ] Make it cool
 - [ ] Mono space font (see https://bytemash.net)
-- [ ] Better homepage
-    + [ ] just latest post with link to blog
-        * [ ] need to have a get one post api
-    + [ ] Expand sections
-    + [ ] More about me
+- [ ] blog search
 - [ ] pagination of blog posts?
 - [ ] Resume Section
 - [ ] icon
