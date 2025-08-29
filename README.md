@@ -21,14 +21,15 @@ What it needs:
 - [x] hosting in github pages
 - [x] port to main blog
 - [x] rss link in footer
-- [ ] cool auto navigation hamburger
+- [x] cool auto navigation hamburger
 - [ ] dark mode button
-- [ ] Mono space font (see https://bytemash.net)
 - [ ] Make it cool
+- [ ] Mono space font (see https://bytemash.net)
 - [ ] Better homepage
-    + [ ] More about me
     + [ ] just latest post with link to blog
         * [ ] need to have a get one post api
+    + [ ] Expand sections
+    + [ ] More about me
 - [ ] pagination of blog posts?
 - [ ] Resume Section
 - [ ] icon
