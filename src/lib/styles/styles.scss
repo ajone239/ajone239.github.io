@@ -85,7 +85,7 @@ blockquote {
   margin: 2rem 0;
   border-left: 4px solid #999;
   font-style: italic;
-  color: #333;
+  color: var(--text-color);
 
   &::before {
     content: "“";
@@ -93,7 +93,7 @@ blockquote {
     position: absolute;
     left: 10px;
     top: 5px;
-    color: #ccc;
+    color: var(--main-border-color);
   }
 }
 
