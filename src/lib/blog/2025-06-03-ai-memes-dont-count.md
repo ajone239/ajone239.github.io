@@ -12,6 +12,7 @@ So, choose something you care about and do it.
 ---
 
 <!-- intro about the poem -->
+
 I'm in a D&D campaign at the time of writing.
 In the last session of this campaign, we rescued a hot snake lady.
 How hot?
@@ -32,7 +33,7 @@ I write jokes to the chagrin of all my friends.
 Gathering up all the appeal to authority I can muster as an author of this post you are reading, I think I have a decent eye for what is good in these media.
 Maybe I don't know what is "great", but I can spot good.
 Generative AI writes _good_ stuff.
-Code that is *locally* clean, scalable, and sensible.
+Code that is _locally_ clean, scalable, and sensible.
 Poetry that has moving meaning and plays with form.
 Jokes that are at least as funny as the best meme on Facebook yesterday.
 
@@ -43,6 +44,7 @@ Fair but why?
 What meaning is lost from my friend's poem about a yearning of serpentine fellatio?
 
 <!-- Cheetos in acrylic -->
+
 [Sunday Nobody](https://www.sundaynobody.com/) is a meme artist.
 You could, of course, argue that that is just an _artist_, but I digress.
 The artist preserved a bag of "Flaming Hot Cheetos" entombed it in a 3000lb. sarcophagus and then interred it in a large hole in the ground.
@@ -63,6 +65,7 @@ This chip itself is consumerism incarnate.
 Now, it will be immortalized with the likes of the Pharaohs.
 
 <!-- art is running out the bit -->
+
 Paraphrasing John Green, it has become clear as contemporary art and meme culture near that both boil down to running out the bit.
 We can all think to a friend who has said, "Dude there was a person at the bar and they were so cute and ...".
 I think we similarly know that they always get asked, "Well, did you talk to them?"
@@ -70,6 +73,7 @@ The conception of an idea takes work and imagination, yes.
 But, it it's realization we are paying with our time to stake value in the idea that we can show others.
 
 <!-- crude crossword -->
+
 A friend of mine and I recently got into cryptic crosswords.
 This went from solving to making clues pretty quickly, like:
 
@@ -91,6 +95,7 @@ On the second dirty word, he'll laugh.
 When he finds nothing but nasty and dirty words as answers to my puzzle, he can rest assured that I picked all those words to make him laugh.
 
 <!-- The hands that make something make it worth something -->
+
 So, it used to be that we were better than the computers, because they couldn't do what we could.
 Ask Kasparov about that one.
 I think we might still be better than them right now.

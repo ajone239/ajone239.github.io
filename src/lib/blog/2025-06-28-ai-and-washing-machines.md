@@ -70,10 +70,10 @@ Every paper I ever wrote was done in one try with no editing.
 So, had someone come along with a tool that could, say, generate a well written paper about anything .
 I have no doubts that I would have been very tempted by this tool.
 (
-    I would give myself the credit that I've always been a purist before a optimizer.
-    I would never cheat on an assignment.
-    Moreover, I had an obsession with doing it right.
-    The hope being that I would learn the lesson the teacher was teaching.
+I would give myself the credit that I've always been a purist before a optimizer.
+I would never cheat on an assignment.
+Moreover, I had an obsession with doing it right.
+The hope being that I would learn the lesson the teacher was teaching.
 )
 Imagine the deal, for 30 minutes of prompting and editing you can get a good if not great grade and have wayy more time to go do what a person in school really wants to do -- not be in school.
 I would like to entreat upon you 2 reasons why this is a bad deal.

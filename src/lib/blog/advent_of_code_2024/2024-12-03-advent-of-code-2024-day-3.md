@@ -116,11 +116,13 @@ When processing is disabled the multiplications should not be summed into the re
 Thankfully, we are light on our toes today.
 
 To adapt, we will expand the regex to catch the two new commands:
+
 ```regex
 (do|don't|mul)\(((\d{1,3}),(\d{1,3}))?\)
 ```
 
 We will also add a bit of logic to the parsing loop to handle them properly:
+
 ```rust
 match &m[1] {
     "do" => {

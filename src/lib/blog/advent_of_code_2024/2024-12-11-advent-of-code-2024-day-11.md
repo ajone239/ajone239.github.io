@@ -38,7 +38,7 @@ It will get data heavy, but I think keeping all the stones in a vector will be e
 With all the stones in a vector, we can iterate over them and make a new vector.
 This is allocation heavy, but hey it's not python.
 It's also worth noting that half of the stones (on average) will double.
-The _real_ input for the  challenge today is 8 stones long.
+The _real_ input for the challenge today is 8 stones long.
 Some napkin ([irust](https://github.com/sigmaSd/IRust)) math tells us:
 
 ```

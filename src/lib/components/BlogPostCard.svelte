@@ -6,7 +6,7 @@
 </script>
 
 <div class="container">
-    <div class={["card", { hover }]}>
+    <div class={['card', { hover }]}>
         {#if meta.date}
             <p class="date">
                 Published: {meta.date}

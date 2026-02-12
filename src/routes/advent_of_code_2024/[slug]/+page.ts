@@ -7,8 +7,6 @@ export const load: PageLoad = async ({ params }) => {
 
     return {
         Content,
-        title,
+        title
     };
 };
-
-

@@ -1,7 +1,7 @@
 <script lang="ts">
-    import { SiteTitle } from "$lib/info";
-    import type { MenuLink } from "$lib/types/MenuLink";
-    import ThemeToggle from "./ThemeToggle.svelte";
+    import { SiteTitle } from '$lib/info';
+    import type { MenuLink } from '$lib/types/MenuLink';
+    import ThemeToggle from './ThemeToggle.svelte';
 
     let { menuLinks }: { menuLinks: MenuLink[] } = $props();
 </script>

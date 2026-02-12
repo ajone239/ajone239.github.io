@@ -1,7 +1,7 @@
 <script lang="ts">
-    import BlogPostCard from "$lib/components/BlogPostCard.svelte";
-    import { SiteUrl } from "$lib/info";
-    import type { PageProps } from "./$types";
+    import BlogPostCard from '$lib/components/BlogPostCard.svelte';
+    import { SiteUrl } from '$lib/info';
+    import type { PageProps } from './$types';
 
     let { data }: PageProps = $props();
 
@@ -30,8 +30,8 @@
                 title,
                 date,
                 excerpt,
-                Content,
-            },
+                Content
+            }
         }}
         hover={false}
     />

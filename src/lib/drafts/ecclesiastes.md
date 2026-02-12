@@ -35,11 +35,13 @@ As Ecclesiastes is a book of the Christian Bible, the text, naturally, proffers 
 Without too much digression, I’m a spiritual person, but maybe not a man of God as it were
 That said, I think in my trying to work through the issue of mortality I’ve found similar answers
 Pastor Gary says:
+
  
 “God is the only one who brings perspective and value and purpose and meaning
 And when he’s not in the equation, you can have it all and accomplish it all and be as empty as empty can be
 That’s [Solomon’s] story
 [It’s] a wonderful wakeup call for some and [a] reminder to others, of the importance of having God at the center of your life.”
+
  
 For my purposes, I’ll relax “God” to a “higher power”
 Nevertheless, this rings very true

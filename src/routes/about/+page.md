@@ -3,8 +3,7 @@ layout: page
 title: About
 ---
 
-About Me
-====================
+# About Me
 
 I'm Austin Jones a software engineer from Tennessee.
 I like using cool technology to solve cool problems.
@@ -25,5 +24,3 @@ Similarly you can find my resume [here](https://github.com/ajone239/Rezzie_CV/bl
 
 If you are here for support for the ABC Notepad app.
 You can find that [here](/abc_support).
-
-

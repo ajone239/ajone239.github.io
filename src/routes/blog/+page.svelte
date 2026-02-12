@@ -1,12 +1,12 @@
 <script lang="ts">
-    import BlogPostCard from "$lib/components/BlogPostCard.svelte";
-    import type { PostEntry } from "$lib/types/PostEntry";
-    import type { PageProps } from "./$types";
+    import BlogPostCard from '$lib/components/BlogPostCard.svelte';
+    import type { PostEntry } from '$lib/types/PostEntry';
+    import type { PageProps } from './$types';
 
     let { data }: PageProps = $props();
     let { posts }: { posts: PostEntry[] } = data;
 
-    let searchText = $state("");
+    let searchText = $state('');
 
     let matchingPosts: PostEntry[] = $derived.by(() => {
         if (!searchText) {
@@ -15,16 +15,10 @@
 
         return posts.filter(
             (post) =>
-                post.meta.title
-                    ?.toLowerCase()
-                    .includes(searchText.toLowerCase()) ||
-                post.meta.excerpt
-                    ?.toLowerCase()
-                    .includes(searchText.toLowerCase()) ||
-                post.meta.date
-                    ?.toLowerCase()
-                    .includes(searchText.toLowerCase()) ||
-                post.path?.toLowerCase().includes(searchText.toLowerCase()),
+                post.meta.title?.toLowerCase().includes(searchText.toLowerCase()) ||
+                post.meta.excerpt?.toLowerCase().includes(searchText.toLowerCase()) ||
+                post.meta.date?.toLowerCase().includes(searchText.toLowerCase()) ||
+                post.path?.toLowerCase().includes(searchText.toLowerCase())
         );
     });
 </script>

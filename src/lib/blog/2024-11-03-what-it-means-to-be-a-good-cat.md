@@ -12,6 +12,7 @@ How does this inform how we can live fuller lives?
 ---
 
 <!-- intro -->
+
 I recently came up against a moral quandary.
 The moral quandary is of the sort of that of a parent.
 Where lies the boundary of my influence on other beings' lives?
@@ -33,6 +34,7 @@ However, what if they were my friends or my human children?
 How does one exercise a good amount of control over another being such that the other being still gets to have a fulfilling existence?
 
 <!-- debunk the easy answer -->
+
 Well, what does it even mean to live a full life?
 I think an easy thing to reach for is the hedonistic answer: pleasure max the animal life with food, play, and comfort.
 But would such a thing make us humans happy?
@@ -44,6 +46,7 @@ When I live a fully-sated life, with no needs or wants, I feel less human; like 
 At times to the degree that I find myself looking for things like cold showers or long runs.
 
 <!-- intro what I think the answer it -->
+
 In these times (in the wide and narrow sense), _accomplishment_ can be lacking in daily life.
 A job is required to survive but fulfillment through it isn't.
 You have to eat but it doesn't have to nourish you.
@@ -51,6 +54,7 @@ With utilitarianism informing the content production strategies around us, it's 
 So, if filling your day with things that maintain your position in the system and keep you temporarily happy leaves you hollowed out, what should you do?
 
 <!-- how the answer informs humans -->
+
 In short, I don't know: for me -- much less you.
 But, I think what I do know is that there is joy in the pursuit of _stuff_.
 What is _stuff_?
@@ -70,6 +74,7 @@ So, it is incumbent upon everyone to not only find but understand and solve (or 
 In some way I think that is the _stuff_.
 
 <!-- wait wasn't this about cats? -->
+
 Moreover, I want Tofu and Miso to have happy and comfortable lives, but I want them to have the joy of being a cat like I have the joy of being a human.
 As some considered thought is required to figure out what it means to be a good human and then good person.
 By the same sword, I think that takes a bit of a considered thought as to what it means to be a cat or maybe even a good cat.

@@ -1,9 +1,9 @@
 <script lang="ts">
-    import { SiteTitle } from "$lib/info";
-    import type { MenuLink } from "$lib/types/MenuLink";
-    import { slide } from "svelte/transition";
-    import Hamburger from "./Hamburger.svelte";
-    import ThemeToggle from "./ThemeToggle.svelte";
+    import { SiteTitle } from '$lib/info';
+    import type { MenuLink } from '$lib/types/MenuLink';
+    import { slide } from 'svelte/transition';
+    import Hamburger from './Hamburger.svelte';
+    import ThemeToggle from './ThemeToggle.svelte';
 
     let { menuLinks }: { menuLinks: MenuLink[] } = $props();
 
@@ -104,10 +104,10 @@
         color: inherit;
         &.nav-links {
             &::before {
-                content: "[  ";
+                content: '[  ';
             }
             &::after {
-                content: "  ]";
+                content: '  ]';
             }
             text-decoration: underline;
             font-weight: bold;

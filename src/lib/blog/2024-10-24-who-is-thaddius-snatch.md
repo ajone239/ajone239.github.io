@@ -20,8 +20,7 @@ So, as the titular questions asks, _Who is Thaddeus Snaatch?_
 
 <!--more-->
 
-Where does he come from?
-====================
+# Where does he come from?
 
 The Snaatch family has a pedigree whose depth is only rivaled by its purity.
 An old wizarding family with a long standing tradition in the practice of Abjuration.
@@ -39,6 +38,7 @@ Our benevolent guild of protectors split their time between:
 maintaining the guard with understood languor,
 using well funneled taxes for universities to further magic (mainly their magic),
 and offering private protection -- at a premium of course.
+
 <!--
 using the well funneled taxes to fund universities that further advance magic (mainly their magic),
 -->
@@ -68,8 +68,7 @@ He has it nice: far nicer than most for certain.
 The pangs in his stomach may well be from how he feels about "the family business", but if he isn't sure he might as well hold up in a castle while he sorts it out.
 Right?
 
-Why is he a Wizard?
-====================
+# Why is he a Wizard?
 
 Put simply -- why _wouldn't_ he be a wizard.
 His father (and father's father (and on)) was a wizard if not a _great wizard_.
@@ -86,8 +85,7 @@ Ingenuously, Thaddeus reasoned: failing the study of magic, what is more wizardl
 Furthermore, the study of the study of magic is thankfully agnostic to the type of magic whose study is being studied.
 So, Thaddeus Snatch claimed the _Order of Scribes_ as his school.
 
-What has him down on his luck?
-====================
+# What has him down on his luck?
 
 Thaddeus seemed to have figured out how to distance himself from the privatised protection syndicate of his family while getting to keep his head in books.
 Thaddeus J. Snaatch VI seemed to think differently.
@@ -108,8 +106,7 @@ Despite his positive (if not ignorant) outlook, the noble pursuit of developing 
 So, something will need to change soon for him to have a chance to continue his new life.
 And crawling back to daddy isn't an option.
 
-Why is he in this ragtag bunch of misfits?
-====================
+# Why is he in this ragtag bunch of misfits?
 
 Thaddeus has now found himself in a ragtag bunch of misfits.
 This begs the question -- why?
@@ -125,8 +122,7 @@ What was he to do but run to help.
 
 The rest is the campaign thus far.
 
-Again... Who is Thaddeus Snaatch?
-====================
+# Again... Who is Thaddeus Snaatch?
 
 Thaddeus J. Snaatch VII is an Elvish Wizard.
 He's tall and lanky like so many elves.

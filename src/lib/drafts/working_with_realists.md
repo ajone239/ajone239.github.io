@@ -8,13 +8,12 @@ categories: philosophy profession
 
 - 4oz of water is in the cup
 - could processes improve vs can we improve process
-    + could processes improve
-        * "yeah"
-        * "yeah"
-    + can we improve process
-        * "yea and we should work to do so"
-        * "yea but we haven't seen anyone do anything"
-
+    - could processes improve
+        - "yeah"
+        - "yeah"
+    - can we improve process
+        - "yea and we should work to do so"
+        - "yea but we haven't seen anyone do anything"
 
 # Working w/ Realists
 

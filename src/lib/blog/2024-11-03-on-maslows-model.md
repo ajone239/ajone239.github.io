@@ -2,7 +2,7 @@
 title: On Maslow's Hierarchy of Needs
 author: Austin Jones
 layout: page
-date: "2024-11-03"
+date: '2024-11-03'
 categories: philosophy
 excerpt: A digestions of a conversation between a colleague and I about Maslow's Hierachy of needs and whether it is too restrictive in defining how we chase our needs.
 ---

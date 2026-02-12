@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Fish in Water
-date: "2025-04-11"
+date: '2025-04-11'
 categories: philosophy social
 excerpt: A dissection of social skills and strategies of a new higher-up at my job.
 ---
@@ -19,12 +19,13 @@ In a pure sense, that's the only goal.
 The salesman has been in a slew of meetings I've also been in.
 I've enjoyed watching him work as he is such a natural in talking to people.
 A few things that I see him do really well are:
+
 - Freely admit ignorance to cede conversational ground and encourage you of his honesty.
 - Keep a very fine sense of the pulse of the conversation.
 - String a mix of good sounding things together to convey whatever he wants to say in a palatable light.
 - Naturally appeal to effective sources of credibility.
 - Fluid understanding of the economy of conversation.
-Below I will discuss these briefly.
+  Below I will discuss these briefly.
 
 # Freely admit ignorance to cede conversational ground and encourage you of his honesty.
 
@@ -83,5 +84,3 @@ Do the skills to convince people of things make people "slime-y" or "connive-y"?
 I would hazard no.
 Just as an understanding of economics doesn't make one stingy.
 It isn't the understanding that makes one a good or bad person but how one wields it.
-
-

@@ -22,7 +22,8 @@
   --border-over-shadow: #777;
 }
 
-html, body {
+html,
+body {
   height: 100%;
   margin: 0;
   font-family: sans-serif;
@@ -88,7 +89,7 @@ blockquote {
   color: var(--text-color);
 
   &::before {
-    content: "“";
+    content: '“';
     font-size: 3rem;
     position: absolute;
     left: 10px;

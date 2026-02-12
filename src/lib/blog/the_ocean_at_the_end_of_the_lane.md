@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Ocean at the End of the Lane by Neil Gaiman
-date: "2024-05-01"
+date: '2024-05-01'
 excerpt: The magic of child hood is fleeting especially for those who lived it.
 ---
 

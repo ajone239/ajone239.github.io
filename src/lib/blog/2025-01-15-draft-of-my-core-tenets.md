@@ -100,7 +100,6 @@ From the ideas of empathy and kindness, think of all the hard days you've had an
 Perhaps this is the just a riff on the golden rule.
 All the same, before you are mean to a person fathom what could have brought them to you and be kind instead.
 
-
 ### Everyone deserves a friend
 
 Life can be lonely, very lonely.
@@ -209,7 +208,7 @@ The darker side of touting empathy as a value is a reflexive habit (if not defen
 This can make for a happy person in the short term, but it invariably ends in the peril of both parties.
 
 So, I've found it best to speak my mind.
-But *anxiety*, I hear you say -- which is _quite_ right.
+But _anxiety_, I hear you say -- which is _quite_ right.
 The way I rationalize my way into speaking my mind is the end of this tenet.
 If you speaking your mind ends a relationship, the pair of you likely weren't compatible.
 

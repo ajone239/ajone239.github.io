@@ -1,17 +1,17 @@
 <script lang="ts">
-    import Footer from "$lib/components/Footer.svelte";
-    import "$lib/styles/styles.scss";
-    import "$lib/styles/prism-styles.css";
-    import type { LayoutProps } from "./$types";
-    import MobileHeader from "$lib/components/MobileHeader.svelte";
-    import DesktopHeader from "$lib/components/DesktopHeader.svelte";
+    import Footer from '$lib/components/Footer.svelte';
+    import '$lib/styles/styles.scss';
+    import '$lib/styles/prism-styles.css';
+    import type { LayoutProps } from './$types';
+    import MobileHeader from '$lib/components/MobileHeader.svelte';
+    import DesktopHeader from '$lib/components/DesktopHeader.svelte';
 
     let { children }: LayoutProps = $props();
 
     const menuLinks = [
-        { title: "Blog", url: "/blog" },
-        { title: "Arcade", url: "/arcade" },
-        { title: "About", url: "/about" },
+        { title: 'Blog', url: '/blog' },
+        { title: 'Arcade', url: '/arcade' },
+        { title: 'About', url: '/about' }
     ];
 </script>
 

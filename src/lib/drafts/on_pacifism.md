@@ -35,7 +35,6 @@ Of course, as i have already ceded, I think there is so much space in the prospe
 That's to say, one who doesn't believe in the minimizing of violence in the world but is afraid of engaging in such violence.
 What I would consider a "real pacifist" isn't this person.
 
-
 > Mine is that true pacifism is ... arguably less moral, because we live in a universe that contains violence and someone has to deal with it
 
 Less moral than what? Killing the enemy? Massacring the other?

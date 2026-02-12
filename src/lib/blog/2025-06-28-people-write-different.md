@@ -5,7 +5,6 @@ date: '2025-06-28'
 excerpt: Some people will take long to wrestle with ideas than others give them the space to ingest and organize.
 ---
 
-
 I was at a workshop recently; it centered around purpose and conveying it to others.
 During the workshop, we were given a task of self reflection.
 We were given three questions on which to reflect.
@@ -34,4 +33,3 @@ But what if like the reflective writing, teaching doesn't have to be adversarial
 When collaborating, it will be much easier to give them the space to ingest and gather all the ideas.
 You and your pupil are a team after all.
 Offering patience and understanding (and not being adversarial) gives not only space to the learner but peace to the teacher.
-

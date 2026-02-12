@@ -20,9 +20,11 @@ You, the reader, are either _him_ and there in have the context of the article o
 He has two main points that I wish to contend with.
 
 First, it is preferable to do "real work" the Advent of Code:
+
 > But the question is what are putting in your time on? When I was the same age as one of my (much younger) friends, I poured all of my time into building a web site—that I’m still using every single day a quarter of a century later.
 
 Second, the Advent of Code is akin to empty calories:
+
 > I also wonder who came up with the advent of code? All of the time that people spend every day working on these arbitrary examples is good training, I guess. But training for what? Job interviews? It’s all time that they’re not spending on other creative projects or spending on open-source projects. I’m not trying to knock it at all—becoming a good programmer means just putting in the time.
 
 # Why I do Advent of Code

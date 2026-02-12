@@ -36,6 +36,7 @@ Notes:
 -->
 
 <!-- intro -->
+
 I love snacking on frozen grapes.
 They're a bit of a comfort food for me.
 My first step mother loved frozen grapes.
@@ -45,6 +46,7 @@ When she was pregnant with my little, half brother, all she wanted was too-sweet
 creates tension for someone being under served
 even in a situation where someone is asking for alot
 -->
+
 One summer day, she took my then stepbrother and me to said sandwich shop.
 She ordered her sandwich last.
 Once it was assembled, she asked for "oil and vinegar... extra oil" as her dressing for her sandwich.
@@ -55,6 +57,7 @@ He obliged.
 She asked him to go until she stopped him.
 
 <!-- intro of the main conflict -->
+
 After a fight her and my biological father had, my step mother confided in me (as much as you can confide in a 10 year old) that she was "done with [my biological father]'s _crap_".
 "But," I asked, "aren't you guys in love?"
 She said, "I love your dad very much, but I just don't like him anymore."
@@ -62,10 +65,12 @@ She was joking when she said this, of course.
 However, they were soon after divorced.
 
 <!-- hook -->
+
 I've long since been afraid of being more lovable than likeable.
 
 <!-- elaborate on love vs like -->
 <!-- make the problem visceral -->
+
 Without sugaring it, I'm afraid of being my dad.
 You like jello.
 You love your mom.
@@ -76,6 +81,7 @@ But he failed to bring her joy.
 He failed to deliver on the promises he made.
 
 <!-- intro to the meat -->
+
 But what does this fear actually comprise?
 I think, in part, it is a pragmatic fear of disservicing people you love.
 As you can tell from the term of endearment "biological father", he and I aren't on exactly _liking_ terms either.
@@ -83,6 +89,7 @@ I have been through the fun cycle of trying to love someone despite them being c
 The thought of putting others through that _scares_ me.
 
 <!-- thesis: learning to accept and give love is important -->
+
 I think a less pragmatic and more stifling constituent is a fear of weakness.
 I'm afraid of needing your love.
 And no, I'm not afraid of "needing your love" like I might do in a song from the 80's.
@@ -92,6 +99,7 @@ If someone puts up with your unfunny jokes you are being cheated from experience
 I fear that the things done in the name of love will coddle my own weaknesses.
 
 <!-- how do i go easy on myself without being a bum -->
+
 A reservation I had before I started therapy was something to the tune of, "what if my issues that I have _make_ me hardworking and good at problem solving."
 That's shockingly untrue looking at it from the other side, however, "The drugs make me creative," is a common refrain with artists.
 This worry morphed from "anxiety makes me smart" into "I'm afraid to give myself any slack because I'll become a bum."
@@ -111,6 +119,7 @@ That would hamper the value I add to myself.
 That would let me slip into a relationship with myself where I'm just tolerating my flaws.
 
 <!-- why a fear of weakness breeds more weakness -->
+
 However, a fear of weakness is something that _counterintuitively_ makes and keeps you weak.
 If you are afraid of weakness, you will find yourself unable to take the proper steps to get stronger.
 If you deign half push-ups as weak and yet can't do a full one, you are needlessly stifling your ability to get work on you strength.
@@ -118,6 +127,7 @@ Things like asking questions, accepting help, or relying on other may be "weak".
 More often though, they can be an enabling step for people to grow.
 
 <!-- what it boils down to -->
+
 This could all sound stupid: e.g. "just accept love man -- let people do stuff for you," but I don't think it is as simple as "just" and "let make it out to be.
 What this all seems to boil down to then is: a lack of self trust and a lack of self worth.
 You won't accept help, because you don't trust yourself to work to ween off it.
@@ -129,6 +139,7 @@ This is simultaneously reductive and complex.
 None the less, it is true.
 
 <!-- Loving yourself DBT -->
+
 But, how do we keep the ledger balanced?
 How do we know how much help is too much or too little?
 In short, you don't.
@@ -156,6 +167,7 @@ By resting better and more, I can perform better.
 Peace, grace, and acceptance are invaluable tools in fighting this issues.
 
 <!-- Accepting Others' Love -->
+
 In light of getting more comfortable giving myself grace, something I've been working on is accepting love.
 "Taking up space" is what I've been referring to it as.
 There has long been discourse on making room for others and giving love.
@@ -167,6 +179,7 @@ Accept help from a mentor, then mentor those who look to you.
 One's role in a community or society is a wholistic one.
 
 <!-- Conclusion -->
+
 It's understandable to be afraid of leaning on others.
 It's isn't something that is particularly taught or encouraged.
 However, not letting yourself be helped or not even helping yourself is an impediment if not something that will make you weaker.

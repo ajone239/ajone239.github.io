@@ -5,12 +5,13 @@ I hope you like it.
 You can view it [here](https://ajone239.github.io).
 
 What it needs:
+
 - [x] RSS Feed
 - [x] Website design
-    + [x] Home page design
-    + [x] Blog post cards
-    + [x] Blogs posts on the home page
-    + [x] Fun error page
+    - [x] Home page design
+    - [x] Blog post cards
+    - [x] Blogs posts on the home page
+    - [x] Fun error page
 - [x] Content lol
 - [x] move over book reviews
 - [x] move over post for advent of code
@@ -30,16 +31,16 @@ What it needs:
 - [ ] style in line code blocks
 - [ ] Mono space font (see https://bytemash.net)
 - [ ] blog tags
-    + [ ] support blog search
+    - [ ] support blog search
 - [ ] pagination of blog posts?
 - [ ] Resume Section
 - [ ] icon
 - [ ] hosting in some other way
 
-
 # Svelte
 
 This was made with Svelte and was heavily influenced by [this post](https://joshcollinsworth.com/blog/build-static-sveltekit-markdown-blog) by [Josh Collinsworth](https://joshcollinsworth.com/about-me).
+
 ## Developing
 
 Once you've pulled the project and installed dependencies with `npm install`, start a development server:

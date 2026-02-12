@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hey! Weren't you doing advent of code?
-date: "2025-01-18"
+date: '2025-01-18'
 author: Austin Jones
 ---
 

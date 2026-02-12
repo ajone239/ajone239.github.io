@@ -1,8 +1,8 @@
 <script lang="ts">
-    import BlogPostCard from "$lib/components/BlogPostCard.svelte";
-    import { SiteTitle } from "$lib/info";
-    import type { PostEntry } from "$lib/types/PostEntry";
-    import type { PageProps } from "./$types";
+    import BlogPostCard from '$lib/components/BlogPostCard.svelte';
+    import { SiteTitle } from '$lib/info';
+    import type { PostEntry } from '$lib/types/PostEntry';
+    import type { PageProps } from './$types';
 
     let { data }: PageProps = $props();
     let { post }: { post: PostEntry } = data;

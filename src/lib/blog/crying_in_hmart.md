@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Crying in Hmart by Michelle Zauner
-date: "2024-03-01"
+date: '2024-03-01'
 excerpt: A sad memoir by a great musician
 ---
 

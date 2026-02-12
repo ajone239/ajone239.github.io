@@ -37,7 +37,6 @@ Another, Rust API that I find myself wanting in every other language is the [win
 This API provides an iterator of slices of size `N`; these slices will be all overlapping slices of the data within the container it was called on.
 For our purpose, this will provide a very ergonomic way to get change from element to element in the report.
 
-
 ```rust
 use anyhow::Result;
 use std::io;

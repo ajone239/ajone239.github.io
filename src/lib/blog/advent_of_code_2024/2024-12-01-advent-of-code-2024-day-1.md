@@ -73,7 +73,6 @@ fn main() -> Result<()> {
 }
 ```
 
-
 # Part B
 
 ## The Twist

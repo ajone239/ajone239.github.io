@@ -35,7 +35,7 @@
     .x-icon {
         &::before,
         &::after {
-            content: "";
+            content: '';
             display: block;
             margin-top: -3px;
             width: 20px;

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Advent of Code 2024
-date: "2025-01-18"
+date: '2025-01-18'
 author: Austin Jones
 ---
 
@@ -25,4 +25,3 @@ Below are all the links to my posts/code.
 - [Day 12](https://github.com/ajone239/advent_of_code_2024/tree/main/day_12a)
 - [Day 13](https://github.com/ajone239/advent_of_code_2024/tree/main/day_13a)
 - [Day 14](https://github.com/ajone239/advent_of_code_2024/tree/main/day_14a)
-

@@ -31,12 +31,11 @@ export const fetchSortedMarkdownPosts: fetchProto = async () => {
     const allPosts = await fetchMarkdownPosts();
 
     const sortedPosts = allPosts.sort((a: PostEntry, b: PostEntry) => {
-        const b_date = b.meta.date ?? "";
-        const a_date = a.meta.date ?? "";
+        const b_date = b.meta.date ?? '';
+        const a_date = a.meta.date ?? '';
 
-        return Date.parse(b_date) - Date.parse(a_date)
+        return Date.parse(b_date) - Date.parse(a_date);
     });
-
 
     return sortedPosts;
 };

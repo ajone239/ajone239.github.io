@@ -1,6 +1,6 @@
 <script>
-    import { SiteDescription, SiteTitle } from "$lib/info";
-    import rssLogo from "$lib/assets/rss_logo.png";
+    import { SiteDescription, SiteTitle } from '$lib/info';
+    import rssLogo from '$lib/assets/rss_logo.png';
 </script>
 
 <footer>

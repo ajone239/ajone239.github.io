@@ -6,7 +6,7 @@ export const prerender = true;
 
 export const GET = async () => {
     const compartPostDates = (a: PostEntry, b: PostEntry) =>
-        Date.parse(b.meta.date ?? "") - Date.parse(a.meta.date ?? "");
+        Date.parse(b.meta.date ?? '') - Date.parse(a.meta.date ?? '');
     const allPosts = await fetchMarkdownPosts();
     const sortedPosts = allPosts.sort(compartPostDates);
 
@@ -45,5 +45,5 @@ const render_post = (post: PostEntry): string => {
         <link> ${path} </link>
         <description> ${description} </description>
         <pubDate>${date} </pubDate>
-    </item>`
-}
+    </item>`;
+};

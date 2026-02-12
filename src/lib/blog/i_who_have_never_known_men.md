@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I Who Have Never Known Men
-date: "2024-12-01"
+date: '2024-12-01'
 excerpt: A story of someone who has never known our world teaching us about ourselves.
 ---
 

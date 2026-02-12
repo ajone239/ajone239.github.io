@@ -25,7 +25,7 @@ Let's take 2 scenarios:
 
 1. I am a baron or duke or other man of means. You, the reader, want to start Business Co. I, as I am hyper-wealthy, lend you $10. You turn this $10 into $20. You pay me back the loan plus $5 -- totalling $15.
 
-2. I am, again, hyper-wealthy. I buy ten shares in Big Business Corp. at $1 a piece. BBC goes gangbusters doing _whatever it does_ *wherever it does* and 1.5x in value. I now have $15.
+2. I am, again, hyper-wealthy. I buy ten shares in Big Business Corp. at $1 a piece. BBC goes gangbusters doing _whatever it does_ _wherever it does_ and 1.5x in value. I now have $15.
 
 Feel free to add zeroes to these examples until you feel the gravity of them.
 In one example, I wield my fictitious wealth to enable a business to operate, in the other, I hitch a ride to grow my wealth while people who only care about money get a commission.
@@ -46,7 +46,7 @@ I've never been a "crypto-bro", but I think that decentralized, cryptographicall
 I also think that fiat currency is very much a "the best we have, but also what is prescribed by geopolitical super powers" value transfer tool.
 I personally haven't been burned by the short comings of my governments currency, at the time of writing.
 However, [it has happened plenty](https://en.wikipedia.org/wiki/Hyperinflation#Notable_hyperinflationary_periods).
-This is all to say, being very reductive to my own thoughts and argument, "Money *is* fake."
+This is all to say, being very reductive to my own thoughts and argument, "Money _is_ fake."
 
 So, is money baseball cards?
 Is fiat currency just some stupid value store that we have all said has value because Barry Manilow had a great hitting season for the Chicago Nicks in the 70s?
