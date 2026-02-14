@@ -16,6 +16,7 @@
         <h2>
             <a href={path}>
                 {title}
+                <span></span>
             </a>
         </h2>
 
@@ -31,20 +32,32 @@
 <style lang="scss">
     .container {
         border-bottom: 2px solid var(--main-border-color);
-    }
-    .card {
-        margin: 1px;
-        padding: 5px;
-        border-radius: 8px;
+        position: relative;
+        .card {
+            margin: 1px;
+            padding: 5px;
+            border-radius: 8px;
 
-        &.hover:hover {
-            background: var(--hover-bg-color);
+            &.hover:hover {
+                background: var(--hover-bg-color);
+            }
         }
-    }
-    .date {
-        opacity: 0.5;
-    }
-    a {
-        color: inherit;
+        .date {
+            opacity: 0.5;
+        }
+
+        a {
+            color: inherit;
+        }
+
+        span {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            top: 0;
+            left: 0;
+
+            z-index: 1;
+        }
     }
 </style>
