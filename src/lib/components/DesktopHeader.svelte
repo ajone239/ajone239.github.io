@@ -37,7 +37,7 @@
         flex-wrap: wrap;
         align-items: center;
         justify-content: space-between;
-        border-bottom: 2px solid lightgrey;
+        border-bottom: 2px solid var(--main-border-color);
     }
 
     .menu-container {

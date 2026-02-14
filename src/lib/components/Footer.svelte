@@ -34,7 +34,7 @@
         display: flex;
         flex-wrap: wrap;
         justify-content: space-between;
-        border-top: 2px dashed lightgrey;
+        border-top: 2px dashed var(--main-border-color);
 
         @media (max-width: 700px) {
             flex-direction: column;

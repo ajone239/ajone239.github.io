@@ -59,7 +59,7 @@
         flex-direction: column;
         flex: 1;
         align-items: center;
-        border-bottom: 2px solid lightgrey;
+        border-bottom: 2px solid var(--main-border-color);
     }
 
     .header-content {

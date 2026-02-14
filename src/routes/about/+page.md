@@ -8,7 +8,7 @@ title: About
 I'm Austin Jones a software engineer from Tennessee.
 I like using cool technology to solve cool problems.
 Thus far I've worked up and down the stack: from distributed container apps to bare metal embedded.
-If the problem's cool I'll work on it!.
+If the problem's cool I'll work on it!
 
 Away from the technical stuff.
 I have two beloved cats: Tofu and Miso.

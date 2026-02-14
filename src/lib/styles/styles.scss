@@ -11,34 +11,25 @@
 }
 
 .dark {
-  --bg-color: #333;
-  --text-color: #eee;
-  --place-holder-text-color: #666;
-  --menu-color: #fff;
-  --link-color: lightpink;
-  --main-border-color: lightgrey;
-  --hover-bg-color: #555;
-  --border-hover-color: #666;
-  --border-over-shadow: #777;
+  --bg-color: #121212;
+  --text-color: #d6cfbe;
+  --place-holder-text-color: #61605e;
+  --menu-color: #b7ac90;
+  --link-color: #92b2e5;
+  --main-border-color: #4a4946;
+  --hover-bg-color: #343330;
+  --border-hover-color: #c1b89f;
+  --border-over-shadow: #ccc3af;
+  --danger: #9c2121;
 }
 
 html,
 body {
   height: 100%;
   margin: 0;
-  font-family: sans-serif;
+  font-family: 'Courier New', Courier, monospace, sans-serif;
   background: var(--bg-color);
   color: var(--text-color);
-
-  .light {
-    background: #eee;
-    color: #333;
-  }
-
-  .dark {
-    background: #333;
-    color: #eee;
-  }
 }
 
 main {
@@ -84,7 +75,7 @@ blockquote {
   position: relative;
   padding: 1.5rem 2rem;
   margin: 2rem 0;
-  border-left: 4px solid #999;
+  border-left: 4px solid var(--main-border-color);
   font-style: italic;
   color: var(--text-color);
 
