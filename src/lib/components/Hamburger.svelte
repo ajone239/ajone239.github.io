@@ -16,7 +16,11 @@
 
 <style>
     .hamburger-container {
-        padding: 10px;
+        width: 20px;
+        height: 20px;
+        position: relative;
+        padding-right: 10px;
+        padding-left: 5px;
         justify-content: center;
         align-items: center;
     }
@@ -33,11 +37,12 @@
     }
 
     .x-icon {
+        margin-top: 10px;
         &::before,
         &::after {
+            position: absolute;
             content: '';
             display: block;
-            margin-top: -3px;
             width: 20px;
             height: 3px;
             background: var(--menu-color);
