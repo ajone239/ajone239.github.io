@@ -26,15 +26,15 @@ What it needs:
 - [x] Better homepage
 - [x] blog search
 - [x] dark mode button
-- [ ] dark mode for code
+- [x] dark mode for code
 - [x] fix the theming in the search bar
-- [ ] style in line code blocks
-- [ ] Mono space font (see https://bytemash.net)
-- [ ] blog tags
-    - [ ] support blog search
+- [x] style in line code blocks
+- [x] Mono space font (see https://bytemash.net)
+- [x] icon
 - [ ] pagination of blog posts?
 - [ ] Resume Section
-- [ ] icon
+- [ ] blog tags
+    - [ ] support blog search
 - [ ] hosting in some other way
 
 # Svelte
