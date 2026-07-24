@@ -13,6 +13,7 @@ Please enjoy:
 - [Breakout (mobile friendly)](https://ajone239.github.io/breakout_two/)
 - [Block Stacker](https://ajone239.github.io/block_stacker/)
 - [Click Wars](https://ajone239.github.io/click_wars/)
+- [Paddle](https://ajone239.github.io/paddle/)
 
 ## The games
 
