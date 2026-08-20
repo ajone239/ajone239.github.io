@@ -112,7 +112,7 @@ I _need_ to figure stuff out before I can move:
 
 What is hard to convey here is the **NEED** .
 I need to know what code will look like before I write it.
-I need an essay to make since in my head before I start the post.
+I need an essay to make sense in my head before I start the post.
 I need to know how a BJJ drill will effect my career as a grappler before I start it.
 Before I have it figured out, I am frozen.
 I can't move.
