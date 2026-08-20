@@ -75,7 +75,7 @@ Which boils down to **trust**.
 Before my most recent lesson, I had the pleasure of watching someone go from a blue belt to a purple belt.
 In this, the coach giving the new belt talked about the humility and openness of the student.
 In that student's empty cup, I saw how full mine was.
-How pretentious was it of me to turn my knows up at my own perception of the simplicity of the lesson when _a master_ has told me it was worth while.
+How pretentious was it of me to turn my nose up at my own perception of the simplicity of the lesson when _a master_ has told me it was worth while.
 It is a demonstration of a lack of faith that  still felt as though I need to prefect (or "out smart") the exercises instead of learn from them.
 Having this impressed upon me -- I endeavored to empty myself and drink up and the feet of my teacher.
 
