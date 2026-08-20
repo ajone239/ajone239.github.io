@@ -89,7 +89,7 @@ The important interaction from this lesson and why I'm writing this at all is as
 
 I made some statement about trying to figure out a position before I did the move.
 The teacher then said, "Austin you are very smart and analytic, but..."
-At which pint, I launched into a diatribe about my profound self knowledge -- displaying great wisdom that I now know that I must she my intellect and dissolve myself before I can learn the craft...
+At which point, I launched into a diatribe about my profound self knowledge -- displaying great wisdom that I now know that I must shed my intellect and dissolve myself before I can learn the craft...
 
 He stopped me dead, paraphrasing:
 
