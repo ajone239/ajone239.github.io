@@ -123,7 +123,7 @@ x ; => 1
 (add1 2) ; => 3
 ```
 
-**NOTE**: There's also a `defmacro` that doesn't what it says it does.
+**NOTE**: There's also a `defmacro` that does what it says it does.
 
 ### `' | quote`
 
@@ -316,7 +316,7 @@ That's where the rest of the tools come in and you get something like:
 
 Would you ever write macros like I just showed you? No.
 But you can.
-It is backed into the DNA of the language.
+It is baked into the DNA of the language.
 The C preprocessor is a whole separate step of compilation.
 With Lisps, macros are more than first class citizens.
 They are natural ways to make programs function.
